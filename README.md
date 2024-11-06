@@ -61,7 +61,7 @@
 	- Test groups
 	- Test classes to execute
 
-`xml`
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
@@ -79,6 +79,7 @@
         </classes>
     </test>
 </suite>
+```
 
 ### 7. Running Tests
 #### Method 1: Using TestNG
@@ -90,44 +91,48 @@
 #### Method 3: Individual Test Cases
 	1. Right click on test class
 	2. Run As -> TestNG Test
+
 ### 8. View Results
 	* Test results available in test-output folder
 	* Extent reports generated in test-output folder
 	* Screenshots captured in screenshots folder
 	* Logs generated in logs folder
+
 ### 9. Eclipse-specific Files
   * .classpath: Contains classpath entries
   * .project: Eclipse project configuration
   * .settings/: Eclipse settings folder
+
 ### 10. Git Configuration
 	.gitignore includes:
-		target/
-		.idea/
-		*.iws
-		*.iml
-		*.ipr
-		.settings/
-		.classpath
-		.project
-		.vscode/
-		.DS_Store
+	target/
+	.idea/
+	*.iws
+	*.iml
+	*.ipr
+	.settings/
+	.classpath
+	.project
+	.vscode/
+	.DS_Store
 
 ## Troubleshooting
-	1. Maven Dependencies Not Downloading
-		* Right click project -> Maven -> Update Project
-		* Check Internet connection
-		* Clear Maven cache: Delete .m2/repository folder
-	2. TestNG Not Found
-		* Install TestNG Eclipse plugin
-		* Add TestNG library to build path
-	3. Java Version Issues
-		* Ensure JDK 17 is installed
-		* Update project compliance level
-		* Check build path JRE System Library
-	4. Browser Driver Issues
-		* Update WebDriver version in pom.xml
-		* Check browser version compatibility
-		* Ensure browser is installed
+1. Maven Dependencies Not Downloading
+	* Right click project -> Maven -> Update Project
+	* Check Internet connection
+	* Clear Maven cache: Delete .m2/repository folder
+2. TestNG Not Found
+	* Install TestNG Eclipse plugin
+	* Add TestNG library to build path
+3. Java Version Issues
+	* Ensure JDK 17 is installed
+	* Update project compliance level
+	* Check build path JRE System Library
+4. Browser Driver Issues
+	* Update WebDriver version in pom.xml
+	* Check browser version compatibility
+	* Ensure browser is installed
+	
 ## Notes
 	* Always run Maven clean install after importing
 	* Keep browser and WebDriver versions compatible
