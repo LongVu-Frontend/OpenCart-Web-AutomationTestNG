@@ -1,0 +1,136 @@
+18:14:12.767 [main] INFO  testCases.TC_PricesDDT_005 - iMac price accurate
+18:14:14.515 [main] INFO  testCases.TC_PricesDDT_005 - Apple Cinema 30" price accurate
+18:14:15.971 [main] INFO  testCases.TC_PricesDDT_005 - Samsung SyncMaster 941BW price accurate
+18:14:17.518 [main] INFO  testCases.TC_PricesDDT_005 - HTC Touch HD price accurate
+18:14:19.269 [main] INFO  testCases.TC_PricesDDT_005 - iPhone price accurate
+18:14:21.678 [main] INFO  testCases.TC_PricesDDT_005 - Palm Treo Pro price accurate
+18:14:22.979 [main] INFO  testCases.TC_PricesDDT_005 - Samsung Galaxy Tab 10.1 price accurate
+18:14:24.142 [main] INFO  testCases.TC_PricesDDT_005 - Canon EOS 5D price accurate
+18:14:25.685 [main] INFO  testCases.TC_PricesDDT_005 - Nikon D300 price accurate
+01:53:44.472 [main] INFO  testCases.TC_Login_002 - Login in Progress
+01:53:45.141 [main] INFO  testCases.TC_Login_002 - Login Successful
+01:53:45.141 [main] INFO  testCases.TC_Login_002 - Proceeding to Logout
+01:53:45.554 [main] INFO  testCases.TC_Login_002 - Logout Successful
+01:53:45.554 [main] INFO  testCases.TC_Login_002 - Continuing to Homepage
+01:53:45.840 [main] INFO  testCases.TC_Login_002 - TC_Login_002 Successful
+01:53:48.577 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+01:53:49.226 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+01:53:49.226 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+01:53:49.226 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+01:53:49.723 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+01:53:51.839 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+01:53:51.840 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+01:53:52.259 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+01:53:54.313 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+01:53:54.313 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+01:53:54.881 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+01:58:28.642 [main] INFO  testCases.TC_Login_002 - Login in Progress
+01:58:29.340 [main] INFO  testCases.TC_Login_002 - Login Successful
+01:58:29.342 [main] INFO  testCases.TC_Login_002 - Proceeding to Logout
+01:58:29.736 [main] INFO  testCases.TC_Login_002 - Logout Successful
+01:58:29.737 [main] INFO  testCases.TC_Login_002 - Continuing to Homepage
+01:58:30.026 [main] INFO  testCases.TC_Login_002 - TC_Login_002 Successful
+01:58:32.794 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+01:58:33.573 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+01:58:33.574 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+01:58:33.574 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+01:58:34.057 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+01:58:36.166 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+01:58:36.166 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+01:58:36.603 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+01:58:38.707 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+01:58:38.707 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+01:58:39.288 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+01:58:59.763 [main] INFO  testCases.TC_CheckOut_004 - Login in Progress
+01:59:00.294 [main] INFO  testCases.TC_CheckOut_004 - Login successful
+01:59:00.294 [main] INFO  testCases.TC_CheckOut_004 - Adding Items to Shopping Cart
+01:59:00.294 [main] INFO  testCases.TC_CheckOut_004 - Searching for iPhone
+01:59:00.914 [main] INFO  testCases.TC_CheckOut_004 - Adding iPhone to Shopping Cart
+01:59:00.968 [main] INFO  testCases.TC_CheckOut_004 - Searching for iMac
+01:59:01.429 [main] INFO  testCases.TC_CheckOut_004 - Adding iMac to Shopping Cart
+01:59:01.465 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to Shopping Cart
+01:59:02.057 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to CheckOut
+01:59:16.648 [main] INFO  testCases.TC_PricesDDT_005 - iMac price accurate
+01:59:17.163 [main] INFO  testCases.TC_PricesDDT_005 - Apple Cinema 30" price accurate
+01:59:18.198 [main] INFO  testCases.TC_PricesDDT_005 - Samsung SyncMaster 941BW price accurate
+01:59:18.677 [main] INFO  testCases.TC_PricesDDT_005 - HTC Touch HD price accurate
+01:59:19.138 [main] INFO  testCases.TC_PricesDDT_005 - iPhone price accurate
+01:59:19.646 [main] INFO  testCases.TC_PricesDDT_005 - Palm Treo Pro price accurate
+01:59:20.140 [main] INFO  testCases.TC_PricesDDT_005 - Samsung Galaxy Tab 10.1 price accurate
+01:59:20.681 [main] INFO  testCases.TC_PricesDDT_005 - Canon EOS 5D price accurate
+01:59:21.206 [main] INFO  testCases.TC_PricesDDT_005 - Nikon D300 price accurate
+02:07:43.647 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+02:07:44.184 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+02:07:44.184 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+02:07:44.185 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+02:07:44.780 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+02:07:46.876 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+02:07:46.876 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+02:07:47.269 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+02:07:49.339 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+02:07:49.339 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+02:07:49.858 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+02:08:10.298 [main] INFO  testCases.TC_CheckOut_004 - Login in Progress
+02:08:10.939 [main] INFO  testCases.TC_CheckOut_004 - Login successful
+02:08:10.939 [main] INFO  testCases.TC_CheckOut_004 - Adding Items to Shopping Cart
+02:08:10.939 [main] INFO  testCases.TC_CheckOut_004 - Searching for iPhone
+02:08:11.388 [main] INFO  testCases.TC_CheckOut_004 - Adding iPhone to Shopping Cart
+02:08:11.440 [main] INFO  testCases.TC_CheckOut_004 - Searching for iMac
+02:08:11.918 [main] INFO  testCases.TC_CheckOut_004 - Adding iMac to Shopping Cart
+02:08:11.960 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to Shopping Cart
+02:08:12.589 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to CheckOut
+02:08:28.125 [main] INFO  testCases.TC_PricesDDT_005 - iMac price accurate
+02:08:28.697 [main] INFO  testCases.TC_PricesDDT_005 - Apple Cinema 30" price accurate
+02:08:29.287 [main] INFO  testCases.TC_PricesDDT_005 - Samsung SyncMaster 941BW price accurate
+02:08:29.872 [main] INFO  testCases.TC_PricesDDT_005 - HTC Touch HD price accurate
+02:08:30.436 [main] INFO  testCases.TC_PricesDDT_005 - iPhone price accurate
+02:08:31.010 [main] INFO  testCases.TC_PricesDDT_005 - Palm Treo Pro price accurate
+02:08:31.699 [main] INFO  testCases.TC_PricesDDT_005 - Samsung Galaxy Tab 10.1 price accurate
+02:08:32.286 [main] INFO  testCases.TC_PricesDDT_005 - Canon EOS 5D price accurate
+02:08:32.844 [main] INFO  testCases.TC_PricesDDT_005 - Nikon D300 price accurate
+02:14:12.010 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+02:14:12.620 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+02:14:12.620 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+02:14:12.620 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+02:14:13.109 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+02:14:15.215 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+02:14:15.219 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+02:14:15.682 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+02:14:17.760 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+02:14:17.760 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+02:14:18.296 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+02:15:16.612 [main] INFO  testCases.TC_Login_002 - Login in Progress
+02:15:17.293 [main] INFO  testCases.TC_Login_002 - Login Successful
+02:15:17.293 [main] INFO  testCases.TC_Login_002 - Proceeding to Logout
+02:15:17.694 [main] INFO  testCases.TC_Login_002 - Logout Successful
+02:15:17.694 [main] INFO  testCases.TC_Login_002 - Continuing to Homepage
+02:15:17.968 [main] INFO  testCases.TC_Login_002 - TC_Login_002 Successful
+02:15:20.732 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login in Progress
+02:15:21.413 [main] INFO  testCases.TC_SearchandAddToCart_003 - Login successful
+02:15:21.414 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding Items to Shopping Cart
+02:15:21.414 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iPhone
+02:15:21.908 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iPhone to Shopping Cart
+02:15:24.007 [main] INFO  testCases.TC_SearchandAddToCart_003 - iPhone added to Cart
+02:15:24.008 [main] INFO  testCases.TC_SearchandAddToCart_003 - Searching for iMac
+02:15:24.468 [main] INFO  testCases.TC_SearchandAddToCart_003 - Adding iMac to Shopping Cart
+02:15:26.537 [main] INFO  testCases.TC_SearchandAddToCart_003 - iMac added to Cart
+02:15:26.537 [main] INFO  testCases.TC_SearchandAddToCart_003 - Proceeding to Shopping Cart
+02:15:27.100 [main] INFO  testCases.TC_SearchandAddToCart_003 - Confirming Items in Shopping Cart
+02:15:47.674 [main] INFO  testCases.TC_CheckOut_004 - Login in Progress
+02:15:48.322 [main] INFO  testCases.TC_CheckOut_004 - Login successful
+02:15:48.322 [main] INFO  testCases.TC_CheckOut_004 - Adding Items to Shopping Cart
+02:15:48.322 [main] INFO  testCases.TC_CheckOut_004 - Searching for iPhone
+02:15:48.780 [main] INFO  testCases.TC_CheckOut_004 - Adding iPhone to Shopping Cart
+02:15:48.827 [main] INFO  testCases.TC_CheckOut_004 - Searching for iMac
+02:15:49.339 [main] INFO  testCases.TC_CheckOut_004 - Adding iMac to Shopping Cart
+02:15:49.380 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to Shopping Cart
+02:15:49.920 [main] INFO  testCases.TC_CheckOut_004 - Proceeding to CheckOut
+02:16:04.347 [main] INFO  testCases.TC_PricesDDT_005 - iMac price accurate
+02:16:04.868 [main] INFO  testCases.TC_PricesDDT_005 - Apple Cinema 30" price accurate
+02:16:05.403 [main] INFO  testCases.TC_PricesDDT_005 - Samsung SyncMaster 941BW price accurate
+02:16:05.952 [main] INFO  testCases.TC_PricesDDT_005 - HTC Touch HD price accurate
+02:16:06.449 [main] INFO  testCases.TC_PricesDDT_005 - iPhone price accurate
+02:16:06.966 [main] INFO  testCases.TC_PricesDDT_005 - Palm Treo Pro price accurate
+02:16:07.446 [main] INFO  testCases.TC_PricesDDT_005 - Samsung Galaxy Tab 10.1 price accurate
+02:16:07.948 [main] INFO  testCases.TC_PricesDDT_005 - Canon EOS 5D price accurate
+02:16:08.430 [main] INFO  testCases.TC_PricesDDT_005 - Nikon D300 price accurate
