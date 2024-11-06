@@ -16,25 +16,25 @@
 		5. Click Finish
 
 ### 3. Project Structure
-OpenCart_TestNG_Framework/
-├── src/
-│ ├── main/
-│ │ └── java/
-│ └── test/
-│ └── java/
-│ ├── testCases/
-│ │ ├── TC_Register_001.java
-│ │ ├── TC_Login_002.java
-│ │ ├── TC_SearchandAddToCart_003.java
-│ │ ├── TC_CheckOut_004.java
-│ │ └── TC_PricesDDT_005.java
-│ └── utilities/
-│ └── ExtentReportsManager.java
-├── test-output/
-├── logs/
-├── screenshots/
-├── testng.xml
-└── pom.xml
+		OpenCart_TestNG_Framework/
+		├── src/
+		│ ├── main/
+		│ │ └── java/
+		│ └── test/
+		│ └── java/
+		│ ├── testCases/
+		│ │ ├── TC_Register_001.java
+		│ │ ├── TC_Login_002.java
+		│ │ ├── TC_SearchandAddToCart_003.java
+		│ │ ├── TC_CheckOut_004.java
+		│ │ └── TC_PricesDDT_005.java
+		│ └── utilities/
+		│ └── ExtentReportsManager.java
+		├── test-output/
+		├── logs/
+		├── screenshots/
+		├── testng.xml
+		└── pom.xml
 
 ### 4. Maven Dependencies
 		The project uses following dependencies (defined in pom.xml):
@@ -133,3 +133,8 @@ OpenCart_TestNG_Framework/
 		* Keep browser and WebDriver versions compatible
 		* Check execution permissions on scripts
 		* Update dependencies versions if needed
+
+# Contact
+Your Name - nguyenlongvux1@gmail.com
+Project Link: https://github.com/yourusername/OpenCart_TestNG_Framework
+--- THE END ---
