@@ -3,10 +3,10 @@
 ## Setup Instructions
 
 ### 1. Prerequisites
-	- Java JDK 17 installed
-  - Eclipse IDE installed
-	- Maven installed
-	- Chrome/Edge Browser installed
+- Java JDK 17 installed
+- Eclipse IDE installed
+- Maven installed
+- Chrome/Edge Browser installed
 
 ### 2. Import Project in Eclipse
 	1. Open Eclipse IDE
@@ -105,16 +105,16 @@
 
 ### 10. Git Configuration
 	.gitignore includes:
-	target/
-	.idea/
-	*.iws
-	*.iml
-	*.ipr
-	.settings/
-	.classpath
-	.project
-	.vscode/
-	.DS_Store
+		target/
+		.idea/
+		*.iws
+		*.iml
+		*.ipr
+		.settings/
+		.classpath
+		.project
+		.vscode/
+		.DS_Store
 
 ## Troubleshooting
 1. Maven Dependencies Not Downloading
