@@ -140,7 +140,7 @@
 	* Update dependencies versions if needed
 
 # Contact
-	* Your Name - nguyenlongvux1@gmail.com
+	* Email - nguyenlongvux1@gmail.com
 	* Project Link: https://github.com/yourusername/OpenCart_TestNG_Framework
 
 --- THE END ---

@@ -16,7 +16,7 @@ public class TC_Register_001 extends BaseClass{
         reg.clickRegister();
         reg.inputFirstname("long");
         reg.inputLastname("vu");
-        reg.inputEmail("longvudeptrai123@gmail.com");
+        reg.inputEmail("longvudeptrai1234@gmail.com");
         reg.inputTelephone("123456789");
         reg.setPassword("longvudeptrai1");
         reg.confirmPassword("longvudeptrai1");
